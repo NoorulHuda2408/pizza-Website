@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(114, 150, 150);
+    
+
+
+}
+
+image{
+    align-items: flex-end;
+    border: 5px;
+    border-color: brown;
+}
+h3{
+    color:darkblue;
+}
+h1{
+    color:blue;
+}
